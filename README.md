@@ -2,8 +2,8 @@
 
 ## Aplicativo React native que gera números aleatórios
 
-<div>
-    <img src="./assets/image project.jpg" alt="imagem do projeto">
+<div align="center">
+    <img width="300px" src="./assets/image project.jpg" alt="imagem do projeto">
 </div>
 
 ### Tecnologias & Ferramentas usadas:
