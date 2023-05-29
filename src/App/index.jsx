@@ -3,10 +3,10 @@ import { useState } from "react";
 import { styles } from "./style";
 
 export default function App() {
-  const [randomNumber, setRandomNumver] = useState(0);
+  const [randomNumber, setRandomNumber] = useState(0);
 
   function getNumberRandom() {
-    setRandomNumver(Math.floor(Math.random() * 1000));
+    setRandomNumber(Math.floor(Math.random() * 1000));
   }
 
   return (
